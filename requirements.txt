@@ -1,0 +1,7 @@
+python-docx
+pdf2image
+doctr
+opencv-python
+scikit-learn
+joblib
+pandas
